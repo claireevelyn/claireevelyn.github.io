@@ -1,0 +1,68 @@
+div>a:nth-child(4n+1) {
+    margin: 1px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1px;
+    background-color: #f67e7d;
+    color: #f0dab1;
+    box-shadow: inset -4px -4px 5px 0px #dc5353;
+    border-color: #bbbbbb;
+}
+
+div>a:nth-child(4n+1):hover {
+    background-color: #f0dab1;
+    color: #f67e7d;
+    box-shadow: inset -4px -4px 5px #f5c181;
+}
+
+div>a:nth-child(4n+2) {
+    margin: 1px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1px;
+    background-color: #407088;
+    color: #badfdb;
+    box-shadow: inset -4px -4px 5px 0px #132743;
+    border-color: #bbbbbb;
+}
+
+div>a:nth-child(4n+2):hover {
+    background-color: #badfdb;
+    color: #132743;
+    box-shadow: inset -4px -4px 5px #49beb7;
+}
+
+div>a:nth-child(4n+3) {
+    margin: 1px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1px;
+    background-color: #fabc74;
+    color: #992e24;
+    box-shadow: inset -4px -4px 5px 0px #f7b71d;
+    border-color: #bbbbbb;
+}
+
+div>a:nth-child(4n+3):hover {
+    background-color: #992e24;
+    color: #fabc74;
+    box-shadow: inset -4px -4px 5px #cf455c;
+}
+
+div>a:nth-child(4n+4) {
+    margin: 1px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1px;
+    /*border-color: #777777;*/
+    background-color: #cba1d2;
+    color: #f4f6f6;
+    box-shadow: inset -4px -4px 5px 0px #ab72c0;
+    border-color: #bbbbbb;
+}
+
+div>a:nth-child(4n+4):hover {
+    background-color: #f4f6f6;
+    color: #cba1d2;
+    box-shadow: inset -4px -4px 5px #dadada;
+}
